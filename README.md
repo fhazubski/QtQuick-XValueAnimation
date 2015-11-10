@@ -1,11 +1,10 @@
 # QtQuick-XValueAnimation
 If you want to use animation in which you control the time.
 
-[More information here.](http://stackoverflow.com/questions/33598187/another-time-source-for-qml-animations)
+[More information here.](http://stackoverflow.com/a/33631321/5163799)
 
 To use this object use `XValueAnimation` object in QML.
 This object has 6 properties that can be set:
-
 	- target - (Item) Object which property will be animated.
 	- targetProperty - (string) Name of the property.
 	- from - (double) Start value.
